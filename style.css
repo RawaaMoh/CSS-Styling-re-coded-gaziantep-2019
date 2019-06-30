@@ -4,6 +4,7 @@ p {
   font-size: 1em;
   line-height: 1.5em;
 }
+
 figcaption{
   /*font-weight: normal;*/
   /*font-size: 0.75em;*/
@@ -22,6 +23,7 @@ figcaption{
 #logo{
   background-color: aqua;
 }
+
 #logo h1{
   font-family: 'Clicker Script', Cursive;
   
